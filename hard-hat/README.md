@@ -13,3 +13,8 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+
+NFT collection will be a set of 120 NFTs
+we will only have addresses that were whitelisted to have NFT.
+The price of NFT will be initalised. 
+

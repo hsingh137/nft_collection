@@ -8,3 +8,11 @@
   import "@openzeppelin/contracts/access/Ownable.sol";
   import "./IWhitelist.sol";
 
+
+contract CryptoDevs is ERC721Enumerable, Ownable {
+
+
+// what we need 
+// nfe
+
+}
